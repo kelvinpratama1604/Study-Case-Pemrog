@@ -1,4 +1,6 @@
 # Study-Case-Pemrog
+Nama : Kelvin Pratama
+Nim  : 19.11.2791
 Promos Aplikasi sederhana sesuai Study Case yang diberikan dosen sebagai tugas UAS Pemrogramana , Aplikasi ini berguna sebagai simulasi pembelian makanan/minuman dengan implementasi promo/voucher.
 
 Ruang Lingkup dan Fungsinya : 
